@@ -14,7 +14,7 @@
   Index|Page:
 
     This is where I played with the knowledge that I had. I understand
-    that he project may not be organized up to your coding standards but, 
+    that the project may not be organized up to your coding standards but, 
     I am a beginner and I could care less about what you think of my small
     successess. I made use of a list without any submitting or usefulness
     yet somehow I found it quite amusing, it having no use.
